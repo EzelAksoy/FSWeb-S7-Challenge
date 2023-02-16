@@ -1,0 +1,35 @@
+.food img {
+  width: 12rem;
+  height: 10rem;
+}
+div {
+  margin: 0rem auto;
+  text-align: center;
+  padding: 0.5rem 1rem;
+}
+h2 {
+  margin: 0.5rem auto;
+  font-weight: bold;
+}
+div .food:hover {
+  background-color: burlywood;
+  border-radius: 10px;
+  cursor: pointer;
+}
+div .food p {
+  text-align: center;
+}
+
+.ratings {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.AnaYazı {
+  height: 4rem;
+  font-family: fantasy;
+  font-style: italic;
+  font-size: 3rem;
+  color: crimson;
+}

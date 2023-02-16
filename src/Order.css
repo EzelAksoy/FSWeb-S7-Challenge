@@ -1,0 +1,82 @@
+label {
+  display: inline-block;
+  margin: 5px auto;
+  width: 11rem;
+  text-align: left;
+}
+input {
+  display: inline-block;
+  margin: 5px auto;
+}
+.main_label {
+  font-size: 20px;
+  font-family: monospace;
+  font-style: italic;
+  border: 2px solid green;
+  border-radius: 10px;
+  width: 50rem;
+  background-color: rgb(235, 241, 241);
+  height: 2rem;
+  text-align: left;
+  padding: 5px;
+  text-decoration: underline;
+}
+
+.basarılı img {
+  width: 200px;
+  height: 200px;
+}
+form p {
+  color: red;
+  text-align: center;
+  padding: 1rem;
+  font-size: 1rem;
+  font-style: normal;
+}
+h4 {
+  margin: 0.5rem auto;
+  font-weight: bold;
+  font-style: unset;
+}
+
+.size_div select {
+  width: 10rem;
+  height: 1.5rem;
+}
+.special_div input {
+  width: 80%;
+  height: 3rem;
+  text-align: justify;
+}
+.number_div input {
+  width: 4rem;
+  height: 1.5rem;
+  text-align: center;
+  font-size: 1rem;
+}
+.number_div {
+  border-bottom: 1px solid gray;
+}
+.Add_toppings_div {
+  display: flex;
+  flex-wrap: wrap;
+  width: 38rem;
+}
+
+.Gönder {
+  width: 10rem;
+  height: 3rem;
+  border: 2px solid gray;
+  border-radius: 5px;
+  font-size: larger;
+}
+.sauce_div {
+  display: flex;
+  vertical-align: bottom;
+}
+
+.order_header img {
+  width: 45rem;
+  height: 15rem;
+  border-radius: 10px;
+}
